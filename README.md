@@ -22,6 +22,7 @@ Offsets for dwarf health, ammo and resource pools, enemy health, movement mechan
 ### Features That Held Up
 
 The **Mod Menu** shines in both deep dives and casual haz levels. Here’s my current daily setup after the recent patches.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/378d59f4-f542-4a64-b032-7be5dc58a25b" />
 
 #### Stable Tools in March 2026
 
